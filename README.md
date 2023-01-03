@@ -10,4 +10,7 @@
 
 **[点击下载脚本](https://github.com/ender-zhao/GTA5-2take1-KickADS-bot-LuaScript/releases/download/script/ADS-Blocker-CN.lua)**
 
+**[查看已记录的scid屏蔽列表](https://github.com/ender-zhao/GTA5-2take1-KickADS-bot-LuaScript/blob/main/scid.cfg)** (粘贴至*\2Take1Menu\cfg\scid.cfg中可在广告机进入战局前将其踢出)
+【不定时更新】
+
 如有侵权，私信删除
