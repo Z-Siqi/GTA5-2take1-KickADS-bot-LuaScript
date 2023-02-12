@@ -1,7 +1,7 @@
 ui.notify_above_map("广告机拦截已开启", "", 12)
 adsbotname = " "
 
-function tentosixteennnn(scidnumstr)
+function tentosixteen(scidnumstr)
     local a, b = string.match(scidnumstr, "%D*(%d+)%.?(%d*)")
     local ret1 = ""
     a = tonumber(a)
@@ -65,14 +65,14 @@ function tentosixteennnn(scidnumstr)
 end
 
 function WriteBlacklist(name, scid)
-	scid = tentosixteennnn(tostring(scid))
+	scid = tentosixteen(tostring(scid))
 	block = io.open(utils.get_appdata_path("PopstarDevs", "2Take1Menu").. "\\cfg\\scid.cfg", "a+")
 	block:write(name ..":".. tostring(scid) .. ":c\n")
 	block:close()
 end
 
 
-GUANGGAOJILANJIEZIDONGAA = menu.add_feature("广告机拦截", "toggle", 0, function(f)
+BLOCKADSBOTS = menu.add_feature("广告机拦截", "toggle", 0, function(f)
 	if f.on then
 		chatlistener = event.add_event_listener("chat", function(m)
 			if string.match(m.body,"广告词A")
@@ -99,5 +99,5 @@ GUANGGAOJILANJIEZIDONGAA = menu.add_feature("广告机拦截", "toggle", 0, func
 		chatlistener  = nil
 	end
 end)
-GUANGGAOJILANJIEZIDONGAA.on = true
-GUANGGAOJILANJIEZIDONGAA.hidden = true
+BLOCKADSBOTS.on = true
+BLOCKADSBOTS.hidden = true
