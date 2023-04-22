@@ -1,6 +1,6 @@
 # GTA5 2take1 外挂 广告机屏蔽脚本
 
-### 这是一个 [2take1](https://gta.2take1.menu/) 的lua脚本，你需要先购买此外挂才可使用
+### 这是一个基于 [2take1](https://gta.2take1.menu/) 的lua脚本
 
 *脚本从某网站搬运(由于忘名字的原因, 故无法提供链接)*
 
