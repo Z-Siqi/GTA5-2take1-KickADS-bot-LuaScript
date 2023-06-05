@@ -30,6 +30,7 @@ local filter = {
 	"免费科技",
 	"辅竹",
 	"加微信就送",
+	"做任务 有妹子",
 	"加微信送",
 	"进网站送",
 	"幼女学生",
@@ -40,6 +41,7 @@ local filter = {
 	"\xE5\xBE\xAE\xE4\xBF\xA1",
 	"<font s",
 	"\xD0\xBC\xD0\xB5",
+	"<b>",
 	"20R$",
 	"/Menu",
 	"gtacash",
@@ -70,6 +72,7 @@ local filter = {
 	"gta62",
 	"6300700",
 	"P860",
+	"94818",
 	"621992"
 	--[[
 	You can add more blacklisted phrases here, separated by commas
