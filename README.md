@@ -12,9 +12,9 @@
 
 对原脚本的更改: 更好的广告词检测及更低的误踢率
 
-**[点击下载脚本](https://github.com/ender-zhao/GTA5-2take1-KickADS-bot-LuaScript/releases/download/script/ADS-Blocker-CN.lua)**
+**[点击下载脚本](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/releases/download/script/ADS-Blocker-CN.lua)**
 
-**[查看已记录的scid屏蔽列表](https://github.com/ender-zhao/GTA5-2take1-KickADS-bot-LuaScript/blob/main/scid.cfg)** (粘贴至*\2Take1Menu\cfg\scid.cfg中可在广告机进入战局前将其踢出)
+**[查看已记录的scid屏蔽列表](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/blob/main/scid.cfg)** (粘贴至*\2Take1Menu\cfg\scid.cfg中可在广告机进入战局前将其踢出)
 
 【不定时更新】
 
@@ -24,6 +24,8 @@
 
 ### 基于其它脚本的格式
 
-特色: 尽可能降低误踢掉正常聊天的玩家
+*2Take1最近新增了安装脚本功能，那里也有屏蔽广告脚本且格式更优秀，但脚本可能会踢掉正常聊天的玩家*
+
+特色: 更好的广告匹配词，以尽可能降低误踢掉正常聊天的玩家
 
 **[查看适用于AntiAdBot的广告词格式](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/blob/main/ToAntiAdBot)**
