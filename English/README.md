@@ -28,4 +28,4 @@
 
 Feature: Better ads match words to minimize the number of players who accidentally kicked out of normal chat.
 
-**[Check out matching word patterns for AntiAdBot ads]()**
+**[Check out matching word patterns for AntiAdBot ads](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/blob/main/ToAntiAdBot)**
