@@ -1,6 +1,6 @@
 # GTA5 2take1 外挂 广告机屏蔽脚本
 
-**中文|[English](https://github.com/ender-zhao/GTA5-2take1-KickADS-bot-LuaScript/tree/main/English)**
+**中文|[English](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/tree/main/English)**
 
 ### 这是一个基于 [2take1](https://gta.2take1.menu/) 的lua脚本
 
