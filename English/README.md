@@ -8,12 +8,6 @@
 
 **This script only can kick ads bots who sent ads text on public chat.**
 
-****
-
-### This script is mainly used to kick out Chinese ads bots!
-
-****
-
 **Changes to original script:**
 
 1, Better distinguish between normal texts and ads texts. 
@@ -25,3 +19,13 @@
 **[Check recorded scid banned list](https://github.com/ender-zhao/GTA5-2take1-KickADS-bot-LuaScript/blob/main/scid.cfg)** (Paste into `*\2Take1Menu\cfg\scid.cfg` if you want to kicked ads bot before join)
 
 (Update from time to time)
+
+***
+
+### Based on other script format
+
+2Take1 updated a function that called "Install Scripts" recent, there also has script can block ads, and the format is better than here, but this script may kick player who chat normal.
+
+Feature: Better ads match words to minimize the number of players who accidentally kicked out of normal chat.
+
+**[Check out matching word patterns for AntiAdBot ads]()**
