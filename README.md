@@ -19,3 +19,11 @@
 【不定时更新】
 
 如有侵权，私信删除
+
+****
+
+### 基于其它脚本的格式
+
+特色: 尽可能降低误踢掉正常聊天的玩家
+
+**[查看适用于AntiAdBot的广告词格式](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/blob/main/ToAntiAdBot)**
