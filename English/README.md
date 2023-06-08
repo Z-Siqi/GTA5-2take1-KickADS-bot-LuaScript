@@ -14,7 +14,7 @@
 
 2, Better ads match words to minimize the number of players who accidentally kicked out of normal chat.
 
-**[Click to download this script](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/releases/download/script/ADS-Blocker-CN.lua)**
+**[Click to download this script](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/releases/download/LuaScript/KickAdsSender.lua)**
 
 **[Check recorded scid banned list](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/blob/main/scid.cfg)** (Paste into `*\2Take1Menu\cfg\scid.cfg` if you want to kicked ads bot before join)
 
