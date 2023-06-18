@@ -97,6 +97,7 @@ event.add_event_listener("chat", function(e)
 				player.unset_player_as_modder(e.player, -1)
 				script.trigger_script_event(0x493FC6BB, e.player, {e.player, script.get_global_i(1893548 + (1 + (e.player * 600)) + 511)})
 				network.force_remove_player(e.player)
+				network.network_session_kick_player(e.player)
 				system.wait(10)
 				menu.notify("Chat sender of ads: " ..adsbotname, "Player is kicked!")
 				WriteBlacklist(adsbotname, adsbotscid)
@@ -120,6 +121,7 @@ hook.register_script_event_hook(function(source, target, params, count)
 
 	if f(s) then
 		network.force_remove_player(source)
+		network.network_session_kick_player(source)
 		menu.notify("SMS sender of ads: " ..adsbotname, "Player is kicked!")
 	end
 end)
