@@ -8,6 +8,8 @@
 
 *Merged two Lua scripts: one is from web (No source, due to forgot URL) and another one is AntiAdBot.*
 
+> If wrote ads bots cannot detect and prevent ads bot join by menu, please goto `menu->fake friends->search`, then don't put any letter in search text field and press 'Enter'. This will tell menu refresh.
+
 **Changes to original scripts:**
 
 1, Merged two Lua scripts because AntiAdBot script cannot save ads bot to blacklist, another script cannot kick player who sent ads SMS
