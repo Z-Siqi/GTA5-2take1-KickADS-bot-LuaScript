@@ -8,7 +8,7 @@
 
 *Merged two Lua scripts: one is from web (No source, due to forgot URL) and another one is AntiAdBot.*
 
-> If wrote ads bots cannot detect and prevent ads bot join by menu, please goto `menu->fake friends->search`, then don't put any letter in search text field and press 'Enter'. This will tell menu refresh.
+> If wrote ads bots cannot detect and prevent ads bot join by menu, please goto `menu->fake friends->search`, then don't put any letter in search text field and press 'Enter'. This will tell menu refresh. But if still cannot, try restart menu
 
 **Changes to original scripts:**
 
