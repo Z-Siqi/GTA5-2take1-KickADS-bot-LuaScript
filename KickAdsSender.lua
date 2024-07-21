@@ -69,6 +69,7 @@ local filter = {
 	"请色",
 	"请涩",
 	"情涩",
+	"无优媒体",
 	"--->",
 	"\xE6\x89\xA3\xE6\x89\xA3", 
 	"\xE5\xBE\xAE\xE4\xBF\xA1",
@@ -111,6 +112,8 @@ local filter = {
 	"92333",
 	"gta99",
     "GTAA5",
+    "54.c",
+    "GTASOS",
 	"P699"
 }
 --added by this Script--
