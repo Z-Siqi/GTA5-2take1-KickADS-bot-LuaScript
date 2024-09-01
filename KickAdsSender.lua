@@ -70,6 +70,7 @@ local filter = {
 	"请涩",
 	"情涩",
 	"无优媒体",
+	"搜_索",
 	"--->",
 	"\xE6\x89\xA3\xE6\x89\xA3", 
 	"\xE5\xBE\xAE\xE4\xBF\xA1",
