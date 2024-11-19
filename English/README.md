@@ -4,6 +4,10 @@
 
 ****
 
+Due to the existence of BattlEye, using 2take1 is no longer able play with other players. Therefore, it was decided to archive the project *(19 Nov 2024)*
+
+****
+
 ### This is a Lua script based on [2take1](https://gta.2take1.menu/) Menu
 
 *Merged two Lua scripts: one is from web (No source, due to forgot URL) and another one is AntiAdBot.*
