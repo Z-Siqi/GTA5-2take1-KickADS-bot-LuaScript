@@ -3,7 +3,7 @@
 **中文|[English](https://github.com/Z-Siqi/GTA5-2take1-KickADS-bot-LuaScript/tree/main/English)**
 
 ****
-由于 BattlEye 的加入，使用 2take1 将不再能正常的与一般玩家一起游玩。因此继续维护可能将不再必要 (*19 Nov 2024* )
+由于 BattlEye 的加入，使用 2take1 将不再能正常的与一般玩家一起游玩。因此继续维护可能将不再必要 (在 *19 Nov 2024* 存档)
 ****
 
 ### 这是一个基于 [2take1](https://gta.2take1.menu/) 的lua脚本
